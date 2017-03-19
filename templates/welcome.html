@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Apple</title>
+</head>
+<body>
+<form method='GET' action='' >
+<label>Sort BY</label>
+<select name="sort_by">
+	{% for key in keys %}
+	<option>{{ key }}</option>
+	{% endfor %}
+</select>
+<input type='submit' value='Go!' />
+</form>
+<table border="1">
+	{{ rows| safe }}
+</table>
+</body>
+</html>

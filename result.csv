@@ -1,0 +1,13 @@
+,distance,comptiaCode,componentCode,issueCode_desc,superGroup_desc,symptomId,superGroup,caseId,issueCode,symptomId_desc,details,componentCode_desc
+0,0.333333333333,WT6,W306,Display - Multiple cracks,Apple Watch,21197,SG008,100122631944,W3064,Accidental or physical damage,broken screen,Physical Damage
+1,0.333333333333,WT6,W306,Display - Multiple cracks,Apple Watch,21197,SG008,100126121125,W3064,Accidental or physical damage,screen broken,Physical Damage
+2,0.333333333333,B92,26112C,Display - Multiple cracks,Iphone,20072,SG003,100128042507,IP276,Display is cracked ,broken screen,Physical Damage
+3,0.5,B92,26112A,Display - Multiple cracks,Iphone,20005,SG003,100128567109,IP276,Accidental damage,iphone screen broken,Physical Damage
+4,0.5,L18,IMC6A,Stand or hinge issue,Mac,5584609,SG001,100105694373,IMI22,5584609,screen hinge broken,Physical Damage
+5,0.5,B92,26112A,Display - Multiple cracks,Iphone,20072,SG003,100128555876,IP276,Display is cracked ,cracked screen phone screen cracked,Physical Damage
+6,0.5,B92,26112B,Display - Multiple cracks,Iphone,20506,SG003,100120599845,IP276,Screen or display quality,broken display broken screen,Physical Damage
+7,0.6,B56,26095A,Multi-touch,Iphone,20227,SG003,100104787305,IP058,Operating system does not respond,freezing phone unresponsive screen,Display
+8,0.6,B98,26112B,Display - Single hairline crack,Iphone,20072,SG003,100122106317,IP277,Display is cracked ,phone screen is cracked,Physical Damage
+9,0.6,B98,26112B,Display - Single hairline crack,Iphone,20506,SG003,100121677904,IP277,Screen or display quality,broken screen  issue broken screen ,Physical Damage
+10,0.625,B92,26112C,Display - Multiple cracks,Iphone,20005,SG003,100129055717,IP276,Accidental damage,accidental damage screen cracked top of phone broken,Physical Damage
+11,0.666666666667,B92,26112C,Display - Multiple cracks,Iphone,20072,SG003,100128548472,IP276,Display is cracked ,display is cracked broken screen,Physical Damage
